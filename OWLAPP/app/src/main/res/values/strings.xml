@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Owl App</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="title_activity_main4">MainActivity4</string>
+    <string name="title_activity_main5">MainActivity5</string>
+
+
+    <!--One topic-->
+    <string name="course1">Language</string>
+    <string name="topic1">The Basics of Programming in C++</string>
+    <string name="subheading1_1">What Is Programming in C++</string>
+    <string name="text1_1">  C ++ is an object oriented programming language, C ++ was developed by Jarney Stroustrup at AT amd T Bell lab,USA in early eighties.C++ was developed from c and simula 67 language. C ++ was early called ‘C with classes’.  \n\n  BASIC CONCEPTS OF OBJECTS ORIENTED PROGRAMMING   1. Objects 2. Classes 3. Data abstraction andencapsulation 4. Inheritance 5. Polymorphism 6. Dynamicbinding  7. Message passing
+\n OPERATORS IN C++ : 1.Arithmetic Operators 2.Relational Operators 3.Logical Operators o Bitwise Operators 4.Assignment Operator o Unary operator 5.Ternary or Conditional Operator
+o Misc Operator   </string>
+
+    <string name="subheading1_2">History of C++</string>
+    <string name="text1_2">  C++ was developed by Bjarne Stroustrup at Bell Laboratories over a period starting in 1979. Since C++ is an attempt to add object-oriented features (plus other improvements) to C, earlier it was called as “C with Objects”. As the language developed, Stroustrup named it as C++ in 1983. The name C++ suggests “C incremented” (recall the ++ is an increment operator of C). \n\n
+    C++ was made available outside Bell Laboratories in 1985. The first commercial C++ compiler, Cfront, was released in 1985. It was only a front-end compiler for C. The American National Standard Institute (ANSI) formed a committee for (precise description of computer language) C++, in 1989. The first draft standards were published in 1995. The draft was modified ... \n\n
+
+So, Bjarne Stroustrup who was a great admirer and master of C and SIMULA 67, combined the features of both the languages into more powerful language. This combination of features of SIMULA 67 and C resulted in a new language called C with Classes by Bjarne in 1979. C with Classes lacked some OOP features. Therefore some features and ideas were taken from ALGOL 68 (Algorithmic Language). Thus it resulted in C++. The name C++ is credited to Rick Mascitti who suggested this name and was first used in 1983. It is named C++ not C+ or ++C because C+ has been used as the name of an earlier unrelated language and C++ is more commonly used than ++C. Moreover, it is not named D language because it is an extension of C.
+
+
+\n\n The inception of C++ programming language began in 1979 when Bjarne Stroustrup was working in his Ph.D. thesis. During that period Stroustrup used to work with Simula (regarded as the first language to support OOP paradigm).Fascinated by object-oriented approach Stroustrup thought of implementing this paradigm in software development, however, the Simula language was far too slow for practical use. So he began working on C with classes i.e. he started working on a new language which would have object-oriented paradigm mixed with the features of C programming language.In 1983, it was named C++ and it included some add-on features such as classes, inheritance, in-lining, default function arguments, polymorphism, encapsulation and strong type checking.The first commercial edition of C++ programming language was released in October 1985. </string>
+
+
+    <!--Two topic-->
+    <string name="course2">Painting</string>
+    <string name="topic2">An introduction to oil painting</string>
+    <string name="subheading2_1">What is oil paint?</string>
+    <string name="text2_1">There are three main categories of oil paints: traditional oils, alkyd oils and water-mixable oils. These are all composed of pigment and binder. The binder encapsulates and protects the pigment, while it also acts as an adhesive by attaching neighbouring particles to each other.</string>
+
+    <string name="subheading2_2">What ranges do Winsor &amp; Newton have available?</string>
+    <string name="text2_2">We currently have 4 ranges of oil paint to suit a variety of different practices.
+\n\n
+        Winsor &amp; Artists Newton’ Oil Colour range is a traditional oil paint, it provides the widest choice of colours with the highest pigment strength, ensuring the cleanest, brightest colours and best mixes.
+\n\n
+The Winton Oil Colour range is also a traditional oil, but it is formulated to offer dependable quality at an accessible price; it is ideal for first time artists who want to learn the fundamentals of oil painting and perfect for any artist needing to cover a large area or working on an underpainting.
+\n\n
+Griffin Alkyd Fast Drying Oil Colour is also made of pigment in oil, but the oil is polymerised through a chemical reaction and the result is a resin-like product that, when mixed with a suitable solvent, takes on many of the properties of traditional oil but has a much faster drying time. It is helpful for underpainting and can be mixed with traditional oils to accelerate drying as well.
+\n\n
+Artisan Water Mixable Oil Colour is a range of oil colours which can be cleaned up with water instead of solvents, whilst providing all the handling properties of conventional oil colour. The depth of colour, lightfastness, performance and drying times of Artisan allow artists to use this range for all oil colour techniques. It’s also suited to artists working in shared spaces or those who are sensitive to chemicals.</string>
+
+
+    <!--Three topic-->
+    <string name="course3">Architecture</string>
+    <string name="topic3">City Phenomenon between Urban Structure and Composition</string>
+    <string name="subheading3_1">Abstract</string>
+    <string name="text3_1">Cities are not just a sum of buildings, but especially a set of social relations that their inhabitants develop. Cities are characterized by a wide variety of social groups and lifestyles. An urban composition represents a form of the city in which it gets a formal order, so that the shape of any urban ensemble is not linked to a random phenomenon, but to an intervention mastered and understood as such. For the city, the urban composition represents what the architectural composition represents for a building. This concept regarding the composition is common both to the architecture and to the city. The main property of the composition is that it transforms a possibly dispersed ensemble into a whole, resolving the contradictions that arise when the requirements and conditions of the project are numerous. Spatial forms and urban compositions are built over time, longer than that of architectural composition. On the other hand, “design of the urban environment” is understood by us as a complex formation of public spaces of the city, located on the ground floor level of the city building and ensuring the vital activity of the urban community. This chapter will study the city phenomenon on a large scale.</string>
+
+    <string name="subheading3_2">Introduction</string>
+    <string name="text3_2">Cities cannot be defined only by their administrative boundaries, and urban policies can no longer target only administrative units at the city level. The importance of multilevel governance has been strongly emphasized by the European Parliament and the Committee of the Regions. This is in full accordance with the conclusions of this report: policies at European, national, regional, and local levels must be correlated with each other. In any urban development and expansion plan, it must be taken into account that natural systems have a limited capacity to respond and adjust to changes produced by man. From the perspective of urban sustainable development, any impact of urban activities on the environment must be minimized. The idea of sustainable urban development was born in the 1970s, as a result of deep concern about a development model that threatened the environment and the vitality of the planet. There is a strong belief that, apart from government programs and the private sector initiative, local communities need to be actively involved in this process. This concept is at the basis of formulating sustainable policies, which try to harmonize the relationship between population, environment, and industrial development. Controlled urban expansion is also known as smart growth. The experience of the states of the European Union shows that metropolitan areas, well managed, reach economic competitiveness quickly (economic policies can effectively attract funds and investors and can energize the construction, services, and tourism sectors), and their future development is sustainable (economic, cultural, social, ecological, and policies are harmonized). Such a project aims at decongesting large cities, establishing unitary architectural development, accessing European funds for regional development, and, thereby, creating civilized living conditions for all inhabitants of metropolitan areas. More than two-thirds of Europe’s population lives in urban areas. Cities are places where problems arise and solutions are found. They represent a fertile ground for science and technology, for culture and innovation, for individual and collective creativity, as well as for mitigating the effects of climate change. However, cities are also places where problems such as unemployment, discrimination, and poverty are concentrated.
+\n\n
+The objective of the Thematic Strategy for the urban environment, adopted in 2006, at European level, “to contribute to a better quality of life through an integrated approach to urban areas,” in conjunction with the effort to contribute to “a higher level of quality of life and social well-being of citizens, by ensuring an environment in which the level of pollution does not generate harmful effects on human health and the environment and by encouraging the sustainable urban development,” defined, for the next years, the priorities, the direction, and the means by which this strategy to be applied. It follows from this strategy that most cities face a common set of basic problems, such as those related to air quality, heavy traffic, high noise levels, low-quality construction, abandoned land, greenhouse gas emissions, non-systematic areas, generation of waste and wastewater, and providing public services to the population. Among the causes of these problems is the increase in the use of resources per inhabitant, the increase in the number of individual households, the demographic changes, and the increase in the number of personal property machines. The solutions must be forward-looking, taking into account aspects of risk prevention, the anticipation of climate change, or the progressive reduction of dependence on fossil fuels. The activities in the urban environment are sources of pollution for all environmental factors. Therefore, they must be controlled and managed to minimize the impact on the environment.
+\n\n
+ What are the five challenges for urban planning theory?
+\n
+Urban planning deals with the design of building groups, settlements, neighborhoods, and in particular public spaces. Urban design can be understood as a term for the visible and creative aspects of urban planning. According to a broader understanding, the concept of urban planning encompasses the totality of planning and construction measures for urban and rural spatial planning aimed at creating the prerequisites for the coexistence of people in an environment appropriate to them in the pursuit of sociopolitical goals. In conclusion, urban design is a product of the collaboration on site of elements of the urban framework, determined functionally within the configuration spatial structure. It can be understood as a term for the visible and creative aspects of urban planning. Traditionally it has been referred to a discipline within urban planning, landscape architecture, or more simultaneously linked to emerging disciplines such as landscape urbanism.</string>
+
+    <!--Four topic-->
+    <string name="course4">Language</string>
+    <string name="topic4">Learning The Basics of Java</string>
+    <string name="subheading4_1">What Is a  Programming in Java?
+</string>
+    <string name="text4_1">JAVA  is a multi-platform, object oriented programming language,and network-centric language that can be used as a platform in itslef. It is fast ,secure,reliable programming language for coding everything from moblie app and enterprise software to big data application and server-side technologies
+\n\n
+1.Java Programming- History of Java:  James Gosling, Mike Sheridan, and Patrick Naughton initiated the Java language project in June 1991. The small team of sun engineers called Green Team. Originally designed for small, embedded systems in electronic appliances like set- top boxes. Firstly, it was called "Greentalk" by James Gosling and file extension was .gt. After that, it was called Oak and was developed as a part of the Green project.
+
+\n\n
+ 2.OOPs (Object Oriented Programming System):  Object means a real word entity such as pen, chair, table etc.
+ Object-Oriented Programming is a methodology or paradigm to design a program using classes and objects.
+It simplifies the software development and maintenance by providing some concepts: 1.Object 2.Class 3.Inheritance 4.Polymorphism 5.Abstraction 6.Encapsulation </string>
+
+    <string name="subheading4_2">Programming in java full details:</string>
+    <string name="text4_2"> 1)Operator in java is a symbol that is used to perform operations:  1.Unary Operator, 2.Arithmetic Operator, 3.shift Operator, 4.Relational Operator, 5.Bitwise Operator, 6.Logical Operator, 7.Ternary Operator and Assignment Operator.
+
+\n\n
+2).Arrays:  Java provides a data structure, the array, which stores a fixed-size sequential collection of elements of the same type. An array is used to store a collection of data, but it is often more useful to think of an array as a collection of variables of the same type.Instead of declaring individual variables, such as number0, number1, ..., and number99, you declare one array variable such as numbers and use numbers[0], numbers[1], and ..., numbers[99] to represent individual variables.
+        \n\n
+3)Inheritance in Java:   Inheritance in java is a mechanism in which one object acquires all the properties and behaviors of parent object. Inheritance represents the IS-A relationship, also known as parent-
+child relationship. Why use inheritance in java: For Method Overriding (so runtime polymorphism can be achieved) For Code Reusability.    Type of Inheritance in JAVA:     1)Single Inheritance  2)Multilevel Inheritance 3)Hierarchical Inheritance 4)Multiple Inheritance 5)Hybrid Inheritance
+        \n\n
+
+</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_main6">MainActivity6</string>
+
+
+</resources>
